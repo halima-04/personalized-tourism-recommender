@@ -19,7 +19,7 @@ Online tourism platforms list many attractions, and travelers struggle to find o
 
 [Tourism Dataset from Historical Transactions for Recommender Systems](https://data.mendeley.com/datasets/h58s544674/1) (Mendeley Data): 9 Excel files, **52,930 transactions, 33,530 users, 30 attractions** in Bali, Malang and Yogyakarta, ratings 1–5, 2013–2022.
 
-The raw data is **not included** in this repository. Download it from the link above.
+
 
 ## Evaluation
 
