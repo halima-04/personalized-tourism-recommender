@@ -1,7 +1,9 @@
 # Personalized and Context-Aware Tourism Recommendation System
 
 **Student:** Halima Mahdi Mohammed | **ID:** 670315
+
 **Institution:** United States International University–Africa (USIU-Africa)
+
 **Programme:** BSc Data Science and Analytics
 
 ## What this project is about
